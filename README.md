@@ -25,5 +25,5 @@ to train and generate ECGs.
 ## Acknowledgement
 
 We appreciate the following github repos a lot for their valuable code base or datasets:
-https://github.com/mondejar/ecg-classification
-https://github.com/DreamStudioAI/sim_gan
+- https://github.com/mondejar/ecg-classification
+- https://github.com/DreamStudioAI/sim_gan
